@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\prakPiano\prakPiano\bin\Debug\net6.0\prakPiano.exe
+C:\Users\Admin\source\repos\prakPiano\prakPiano\bin\Debug\net6.0\prakPiano.deps.json
+C:\Users\Admin\source\repos\prakPiano\prakPiano\bin\Debug\net6.0\prakPiano.runtimeconfig.json
+C:\Users\Admin\source\repos\prakPiano\prakPiano\bin\Debug\net6.0\prakPiano.dll
+C:\Users\Admin\source\repos\prakPiano\prakPiano\bin\Debug\net6.0\prakPiano.pdb
+C:\Users\Admin\source\repos\prakPiano\prakPiano\obj\Debug\net6.0\prakPiano.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\prakPiano\prakPiano\obj\Debug\net6.0\prakPiano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\prakPiano\prakPiano\obj\Debug\net6.0\prakPiano.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\prakPiano\prakPiano\obj\Debug\net6.0\prakPiano.AssemblyInfo.cs
+C:\Users\Admin\source\repos\prakPiano\prakPiano\obj\Debug\net6.0\prakPiano.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\prakPiano\prakPiano\obj\Debug\net6.0\prakPiano.dll
+C:\Users\Admin\source\repos\prakPiano\prakPiano\obj\Debug\net6.0\refint\prakPiano.dll
+C:\Users\Admin\source\repos\prakPiano\prakPiano\obj\Debug\net6.0\prakPiano.pdb
+C:\Users\Admin\source\repos\prakPiano\prakPiano\obj\Debug\net6.0\prakPiano.genruntimeconfig.cache
+C:\Users\Admin\source\repos\prakPiano\prakPiano\obj\Debug\net6.0\ref\prakPiano.dll
